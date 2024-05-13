@@ -20,8 +20,8 @@
    {"key": "高光影视","name": "猫丨高光","type": 3,"api": "./ggys_open.js"},
    {"key": "在线之家2","name": "猫丨在线","type": 3,"api": "./zxzj_open2.js"}, 
    
-   {"key": "玩偶哥哥","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "填入阿里token"},
-    {"key": "玩偶表哥","name": "猫丨表哥","type": 3,"api": "./wobg_open.js","ext": "填入阿里token"},
+   {"key": "玩偶哥哥","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "e0edb14611924935b2c772a8a9cc1a19"},
+    {"key": "玩偶表哥","name": "猫丨表哥","type": 3,"api": "./wobg_open.js","ext": "e0edb14611924935b2c772a8a9cc1a19"},
     
    {"key": "胖虎影视","name": "猫丨胖虎","type": 3,"api": "./panghu_open.js"},  
    {"key": "人人影视","name": "猫丨人人","type": 3,"api": "./rttks_open.js"},   
