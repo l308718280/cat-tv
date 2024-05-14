@@ -20,8 +20,8 @@
    {"key": "高光影视","name": "猫丨高光","type": 3,"api": "./ggys_open.js"},
    {"key": "在线之家2","name": "猫丨在线","type": 3,"api": "./zxzj_open2.js"}, 
    
-   {"key": "玩偶哥哥","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "a148e5fdd7944fbc9be4f3c01be0c19e"},
-    {"key": "玩偶表哥","name": "猫丨表哥","type": 3,"api": "./wobg_open.js","ext": "a148e5fdd7944fbc9be4f3c01be0c19e"},
+   {"key": "玩偶哥哥","name": "猫丨玩偶","type": 3,"api": "./wogg_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
+    {"key": "玩偶表哥","name": "猫丨表哥","type": 3,"api": "./wobg_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
     
    {"key": "胖虎影视","name": "猫丨胖虎","type": 3,"api": "./panghu_open.js"},  
    {"key": "人人影视","name": "猫丨人人","type": 3,"api": "./rttks_open.js"},   
@@ -103,12 +103,12 @@
     {"key": "suoniapi_t1","name": "采集丨索尼","type": 3,"api": "assets://js/caiji_open.js","ext": {"url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["爽文短剧","足球","篮球","影视解说","国产剧","韩剧","欧美剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","预告片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]}},
     {"key": "qhm3u8_t1","name": "采集丨奇虎","type": 3,"api": "assets://js/caiji_open.js","ext": {"url": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","categories":["体育","国产剧","韩国剧","欧美剧","日本剧","香港剧","台湾剧","泰国剧","海外剧","纪录片","动画片","国产动漫","日本动漫","欧美动漫","欧美综艺","日韩综艺","大陆综艺","港台综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片"]}},
           
-    {"key": "阿里盘寻","name": "(仅搜索)丨盘寻","type": 3,"api": "./pansearch_open.js","ext": "填入阿里token"},
-    {"key": "阿里盘搜","name": "(仅搜索)丨盘搜","type": 3,"api": "./pansou_open.js","ext": "填入阿里token"},
-    {"key": "阿里七夜","name": "(仅搜索)丨七夜","type": 3,"api": "./dovx_open.js","ext": "填入阿里token"},
-    {"key": "小纸条","name": "(仅搜索)丨纸条","type": 3,"api": "./xiaozhitiao_open.js","ext": "填入阿里token"},
-    {"key": "UP云搜","name": "(仅搜索)丨云搜","type": 3,"api": "./upyun_open.js","ext": "填入阿里token"},
-    {"key": "云盘4K","name": "(仅搜索)丨云盘","type": 3,"api": "./yunpan4k_open.js","ext": "填入阿里token"}
+    {"key": "阿里盘寻","name": "(仅搜索)丨盘寻","type": 3,"api": "./pansearch_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
+    {"key": "阿里盘搜","name": "(仅搜索)丨盘搜","type": 3,"api": "./pansou_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
+    {"key": "阿里七夜","name": "(仅搜索)丨七夜","type": 3,"api": "./dovx_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
+    {"key": "小纸条","name": "(仅搜索)丨纸条","type": 3,"api": "./xiaozhitiao_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
+    {"key": "UP云搜","name": "(仅搜索)丨云搜","type": 3,"api": "./upyun_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"},
+    {"key": "云盘4K","name": "(仅搜索)丨云盘","type": 3,"api": "./yunpan4k_open.js","ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"}
   ]},
   "read": {
       "sites": [

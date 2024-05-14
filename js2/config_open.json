@@ -13,84 +13,84 @@
         "name": "🐾丨玩偶【💖】",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "玩偶表哥",
         "name": "🐾丨表哥【💖】",
         "type": 3,
         "api": "./wobg_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "玩偶老表",
         "name": "🐾丨老表【💖】",
         "type": 3,
         "api": "./wolb_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "阿里盘寻",
         "name": "🐾丨盘寻【🔍】",
         "type": 3,
         "api": "./pansearch_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "阿里盘搜",
         "name": "🐾丨盘搜【🔍】",
         "type": 3,
         "api": "./pansou_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "阿里七夜",
         "name": "🐾丨七夜【🔍】",
         "type": 3,
         "api": "./dovx_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "小纸条",
         "name": "🐾丨纸条【🔍】",
         "type": 3,
         "api": "./xiaozhitiao_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "UP云搜",
         "name": "🐾丨云搜【🔍】",
         "type": 3,
         "api": "./upyun_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "易搜",
         "name": "🐾丨易搜【🔍】",
         "type": 3,
         "api": "./yiso_open.js",
-        "ext": "填入阿里token$$$易搜账号cookie"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A$$$易搜账号cookie"
     },
     {
         "key": "云盘4K",
         "name": "🐾丨云盘【🔍】",
         "type": 3,
         "api": "./yunpan4k_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "找资源",
         "name": "🐾丨资源【🔍】",
         "type": 3,
         "api": "./zhaozy_open.js",
-        "ext": "填入阿里token$$$找资源账号$$$找资源密码"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A$$$找资源账号$$$找资源密码"
     },
     {
         "key": "盘99",
         "name": "🐾丨盘99【🔍】",
         "type": 3,
         "api": "./pan99_open.js",
-        "ext": "填入阿里token"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
     },
     {
         "key": "push_agent",
@@ -98,7 +98,7 @@
         "type": 4,
         "api": "./push_open.js",
         "ext": {
-          "token" : "填入阿里token",
+          "token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A",
           "cookie": "填入夸克cookie"
       	  }
     },

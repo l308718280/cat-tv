@@ -6,14 +6,14 @@
         "name": "🎬️乐享汇fans丨玩偶①",
         "type": 3,
        "api": "wogg_open.js",
-        "ext": "阿狸token码"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
    }, 
    {
         "key": "wobg",
         "name": "🎬️乐享汇fans丨玩偶②",
         "type": 3,
         "api": "wobg.js",
-        "ext": "阿狸token码"
+        "ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
    },  
  {
         "key": "yrzj",

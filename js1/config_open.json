@@ -122,7 +122,7 @@
 "name": "🎬念心丨玩偶",
 "type": 3,
 "api": "./wogg_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -130,7 +130,7 @@
 "name": "🎬念心丨表哥",
 "type": 3,
 "api": "./wobg_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 
@@ -457,7 +457,7 @@
 "name": "🔍念心丨PanSearch(仅搜索)",
 "type": 3,
 "api": "./pansearch_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -465,7 +465,7 @@
 "name": "🔍念心｜七夜(仅搜索)",
 "type": 3,
 "api": "./dovx_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -473,7 +473,7 @@
 "name": "🔍念心｜盘搜(仅搜索)",
 "type": 3,
 "api": "./pansou_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -481,7 +481,7 @@
 "name": "🔍念心｜小纸条(仅搜索)",
 "type": 3,
 "api": "./xiaozhitiao_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -489,7 +489,7 @@
 "name": "🔍念心｜upyun(仅搜索)",
 "type": 3,
 "api": "./upyun_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -497,7 +497,7 @@
 "name": "🔍念心｜yiso(仅搜索)",
 "type": 3,
 "api": "./yiso_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -505,7 +505,7 @@
 "name": "🔍念心｜yunpan4k(仅搜索)",
 "type": 3,
 "api": "./yunpan4k_open.js",
-"ext": "这里填32位阿狸token"
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"
 },
 
 {
@@ -513,7 +513,7 @@
 "name": "🔍念心｜zhaozy(仅搜索)",
 "type": 3,
 "api": "./zhaozy_open.js",
-"ext": "这里填32位阿狸token"}
+"ext": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMWIxZTFjMzQ2Nzc0MzhmYWI2ODMxNmQ0NDJiN2UyMSIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzIzNDcwNjIzLCJpYXQiOjE3MTU2OTQ2MjMsImp0aSI6ImIxMDI3MWY3NGNhZTRlNmRiODE3NGQyNmZkYmMyMmYwIn0.JY0Fai3r66xOmDB5YBJ4piJpXRMFjcv3wDZoWwLfPkFONH_ZfZO9wkQ96voiQ80Vp9_K0CXtR48h62o1ILfp5A"}
 
 ]
 
